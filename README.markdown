@@ -14,8 +14,9 @@ gem 'bootstra386-rails'
 
 ## Usage
 
-[BOOTSTRA.386] is a [Bootstrap] 2 theme. Require `/*= bootstrap */` in your
-assets and use it as such.
+[BOOTSTRA.386] is a [Bootstrap] 2 theme. 
+
+Require `/*= bootstrap */` and `/*= bootstrap-responsive */`in your stylesheet application.css file and use it as the original.
 
 ## LICENSE
 
